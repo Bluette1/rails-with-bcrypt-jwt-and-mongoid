@@ -43,4 +43,7 @@ end
 
 
 gem "mongoid"
-gem "devise"
+gem 'jwt'
+gem 'bcrypt'
+gem 'rubocop'
+
